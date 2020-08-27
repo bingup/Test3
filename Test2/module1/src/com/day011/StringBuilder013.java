@@ -6,6 +6,9 @@ public class StringBuilder013 {
         builder.append("hell");
         System.out.println();
         System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
 
     }
 }
