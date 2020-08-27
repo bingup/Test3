@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/module1/src/For.java" line="6" />
+    <bookmark url="file://$PROJECT_DIR$/module1/src/com/xunhuai01/XunHuan01.java" line="52" />
+    <bookmark url="file://$PROJECT_DIR$/module1/src/digui.java" line="2" />
+    <bookmark url="file://$PROJECT_DIR$/module1/src/com/com/day12/test8/Test7_2.java" line="11" />
+    <bookmark url="file://$PROJECT_DIR$/module1/src/com/com/day14/test4/Test04.java" line="12" />
+    <bookmark url="file://$PROJECT_DIR$/module1/src/com/com/day14/test6/Test06.java" line="11" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdc1eea6-1347-459b-8df3-30e05252a7e8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Test2$Test2__1_.ic" NAME="Test2 (1) Coverage Results" MODIFIED="1598066152559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.scokettest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-903565195">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="groovy" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="1324" />
+          <entry key="png" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="1324" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="java" value="95371" />
+          <entry key="properties" value="39" />
+          <entry key="txt" value="273" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="95371" />
+          <entry key="PLAIN_TEXT" value="298" />
+          <entry key="Properties" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Test2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test10/Test10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test11/Test11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Bun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <folding>
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/BaoZitEST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test8/TcpServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test10/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/myfile/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test11/DoubleColorBallUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>a</find>
+      <find>EMPTY_ELEMENTDATA</find>
+      <find>test</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/test20/test5/TcpServer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/test20/test5/TcpClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileServer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/test20/test8/TcpClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/a.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/ShowMaker01.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/day16/test10/Person.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/day14/test3/Test03.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/day16/test11/Test11.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/day17/test18/Test18.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/test20/test3/UdpClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/module1/src/com/com/test20/test3/UdpServer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test3/Test1.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test3/asd.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test3/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test3/Test11111.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test333/Test11111.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test333/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test333/Student.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test4/NewClass.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test4/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test5/A.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test5/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/duoxiancheng/MyTest.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/duoxiancheng/MyRunable.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test6/My.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test6/Test6.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test7/Perrson.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test7/Person.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test7/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test8/DemoClass.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test8/d.txt" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test8/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test9/data1.txt" />
+        <option value="$PROJECT_DIR$/module1/src/com/Reflect00/anli.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test9/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test10/MyAnno1.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test10/A.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test10/x.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test10/MyAnno2.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test10/MyAnno3.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test10/Test1.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test10/Test2.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test10/Test3.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test11/MyTest.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test11/Demo.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test11/Tetst.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test12/Demo.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test12/Book.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test21/test12/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/day15/test5/Test.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/day15/test7/MyRunable.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/day15/test6/MyRunable.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/duoxiancheng/Test05.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileClient.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileServer.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/xunhuai01/erchashu/HeapSort.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/com/day16/test10/Person.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/duoxiancheng/Bun.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/duoxiancheng/BaoZitEST.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/duoxiancheng/Customer.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/duoxiancheng/Product.java" />
+        <option value="$PROJECT_DIR$/module1/src/com/myfile/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="150" />
+    <option name="y" value="89" />
+    <option name="width" value="1537" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="day17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiekou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="myfile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="module1" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Test2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="module1" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Test2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="module1" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Test2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="module1" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="duotai" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598501394717" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="last_opened_file_path" value="D:/jar/junit-4.7.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6448276" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.com.test21.test3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1\src\com\com\test20\test5" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1\src\com\com\day16\test4" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1\src\com\xunhuai01" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1\src\com\com\day10\test1" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module2\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.com.test21.test333" />
+      <recent name="com.com.test21.test3" />
+      <recent name="com.com.day14.test7" />
+      <recent name="com.com.test19.test11" />
+      <recent name="com.com.day12.test12" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1\src" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1\src\com\com\test21\test9" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1\src\com\com\test21\test8" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Test2\module1\src\com\com\day10" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BaoZitEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duoxiancheng.BaoZitEST" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duoxiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpFileClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.test20.test7.TcpFileClient" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.test20.test7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myfile.Test" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.day16.test10.Test10" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.day16.test10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.day16.test11.Test11" />
+      <module name="module1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.day16.test11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TcpFileClient" />
+      <item itemvalue="Application.Test10" />
+      <item itemvalue="Application.Test11" />
+      <item itemvalue="Application.BaoZitEST" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BaoZitEST" />
+        <item itemvalue="Application.Test11" />
+        <item itemvalue="Application.Test10" />
+        <item itemvalue="Application.TcpFileClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc1eea6-1347-459b-8df3-30e05252a7e8" name="Default Changelist" comment="" />
+      <created>1596699789622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596699789622</updated>
+      <workItem from="1596699794000" duration="10160000" />
+      <workItem from="1596716741587" duration="4000" />
+      <workItem from="1596763726380" duration="23475000" />
+      <workItem from="1596850529878" duration="15844000" />
+      <workItem from="1596876893180" duration="1351000" />
+      <workItem from="1596878282268" duration="1274000" />
+      <workItem from="1596880822646" duration="31869000" />
+      <workItem from="1597108929973" duration="26333000" />
+      <workItem from="1597148913172" duration="27690000" />
+      <workItem from="1597235578131" duration="23377000" />
+      <workItem from="1597367549342" duration="23461000" />
+      <workItem from="1597401120318" duration="5099000" />
+      <workItem from="1597460410395" duration="14790000" />
+      <workItem from="1597486435361" duration="29025000" />
+      <workItem from="1597667393521" duration="25370000" />
+      <workItem from="1597800340604" duration="25674000" />
+      <workItem from="1597886666345" duration="29591000" />
+      <workItem from="1597926411959" duration="16229000" />
+      <workItem from="1598060213707" duration="4745000" />
+      <workItem from="1598066371861" duration="14781000" />
+      <workItem from="1598087918522" duration="320000" />
+      <workItem from="1598233612862" duration="9961000" />
+      <workItem from="1598319734568" duration="20906000" />
+      <workItem from="1598405124450" duration="10790000" />
+      <workItem from="1598444763642" duration="6199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReflectTest02_test02 - 2020.08.14 at 14h 58m 56s.xml">
+      <configuration name="ReflectTest02.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectTest02_test03 - 2020.08.14 at 15h 25m 33s.xml">
+      <configuration name="ReflectTest02.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectTest02_test05 - 2020.08.14 at 15h 29m 26s.xml">
+      <configuration name="ReflectTest02.test05" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectTest02_test06 - 2020.08.14 at 15h 46m 58s.xml">
+      <configuration name="ReflectTest02.test06" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectTest02_test06 - 2020.08.14 at 15h 47m 53s.xml">
+      <configuration name="ReflectTest02.test06" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectTest02_test06 - 2020.08.14 at 15h 48m 10s.xml">
+      <configuration name="ReflectTest02.test06" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_sum - 2020.08.25 at 10h 14m 17s.xml">
+      <configuration name="Calculator.sum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_mul - 2020.08.25 at 10h 14m 30s.xml">
+      <configuration name="Calculator.mul" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectTest02_test06 - 2020.08.25 at 11h 21m 05s.xml">
+      <configuration name="ReflectTest02.test06" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReflectTest02_test06 - 2020.08.25 at 11h 21m 30s.xml">
+      <configuration name="ReflectTest02.test06" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="398318000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="150" y="89" width="1537" height="1060" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985591" visible="true" weight="0.2857143" />
+      <window_info id="Structure" order="1" sideWeight="0.50144094" side_tool="true" weight="0.2196162" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50144094" side_tool="true" weight="0.2196162" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.68550104" weight="0.3488121" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2516129" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.31449893" side_tool="true" weight="0.2733189" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3264642" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.329698" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/Test1.java</url>
+          <line>4</line>
+          <properties class="Test1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day03/Test03.java</url>
+          <line>3</line>
+          <properties class="com.com.day03.Test03" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day04/Task1_7.java</url>
+          <line>3</line>
+          <properties class="com.com.day04.Task1_7" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/ioloi/IOTest05.java</url>
+          <line>6</line>
+          <properties class="com.ioloi.IOTest05" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day08/Test08.java</url>
+          <line>3</line>
+          <properties class="com.com.day08.Test08" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day08/Test07.java</url>
+          <line>5</line>
+          <properties class="com.com.day08.Test07" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day12/test3/Test3_1.java</url>
+          <line>7</line>
+          <properties class="com.com.day12.test3.Test3_1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day17/test1/Test1.java</url>
+          <line>5</line>
+          <properties class="com.com.day17.test1.Test1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day17/test13/Test13.java</url>
+          <line>6</line>
+          <properties class="com.com.day17.test13.Test13" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test18/test9/Test9.java</url>
+          <line>7</line>
+          <properties class="com.com.test18.test9.Test9" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/scokettest/Test2.java</url>
+          <line>7</line>
+          <properties class="com.scokettest.Test2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/module1/src/com/Reflect00/ReflectTest02.java</url>
+          <line>58</line>
+          <properties class="com.Reflect00.ReflectTest02" method="test06">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Test.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Test03.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day04/Task2_4.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module2/src/com/test/Test01.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module2/src/Test01.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day14/Pork.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day17/test17/Test17.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/day12/test1/Test1_1.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/scokettest/Test1.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test8/TcpClient.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test8/TcpServer.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test8/TcpServer.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test3/UdpClient.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test6/TcpServer.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test6/TcpClient.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileServer.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileServer.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileClient.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day15/test4/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day15/test5/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day15/test5/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day15/test7/MyRunable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day15/test9/MyRunable01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day15/test8/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test4/MyRunable01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test4/MyRunable02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test4/MyRunable03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test6/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test6/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test7/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test8/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test8/Test8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test9/Test9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day15/test6/MyRunable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day15/test6/Test6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/ShowMaker01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/ShowMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test9/TcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test9/TcpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/xunhuai01/erchashu/ArrBinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test6/TcpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test5/TcpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test5/TcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="77" column="6" lean-forward="true" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test6/TcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test7/TcpFileClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/xunhuai01/erchashu/BinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3388">
+          <caret line="156" column="6" selection-start-line="156" selection-start-column="6" selection-end-line="156" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/xunhuai01/erchashu/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1936">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test3/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test5/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test3/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Test05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Bun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/duoxiancheng/BaoZitEST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/test20/test8/TcpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test11/DoubleColorBallUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test11/Test11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test10/Test10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/com/day16/test10/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/src/com/myfile/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6448276" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>module1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6448276" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
